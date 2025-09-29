@@ -20,7 +20,7 @@ focused on **data visualization, exploratory analysis, and documentation practic
   - **PM2.5 & PM10** levels are dangerously high, posing severe health risks.  
   - **CO spikes** suggest traffic or industrial events.  
   - Recommendations include stricter emission regulations and long-term green initiatives.  
-  - (Full analysis in [AirQuality_Analysis.pdf](Task2_AirQualityAnalysis/AirQuality_Analysis.pdf)):contentReference[oaicite:1]{index=1}
+  - (Full analysis in [AirQuality_Analysis.pdf](Task2/AirQuality_Analysis.pdf)):contentReference[oaicite:1]{index=1}
  
 ## Skills Demonstrated
 - Data cleaning & descriptive statistics with **pandas**.
